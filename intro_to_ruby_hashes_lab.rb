@@ -24,9 +24,7 @@ def new_hash
  	}
  end
 
- def 
-
- end
+ def monopoly_with_third_tier
  	monopoly = {
  		:railroads=>
  		{
@@ -47,7 +45,7 @@ def new_hash
  		}
  		}
  	}
-
+end
 
 
  def monopoly_with_fourth_tier
